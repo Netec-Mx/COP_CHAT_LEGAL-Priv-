@@ -1,10 +1,9 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Copilot chat en impuestos, legal y auditoria
 
 Este seminario está diseñado para integrar la inteligencia artificial en las áreas críticas de control normativo. El programa aborda la complejidad del cumplimiento fiscal, la gestión de riesgos en auditoría y la redacción jurídica técnica, transformando tareas manuales de revisión y conciliación en flujos de trabajo automatizados que garantizan una mayor precisión y seguridad jurídica.
 
-## Estructura
-
-- `CapituloXX/README.md`: guía de laboratorio por capítulo.
 
 ## Lista de laboratorios
 
@@ -32,8 +31,12 @@ Este seminario está diseñado para integrar la inteligencia artificial en las �
   - Descripción: Descripción basada en la práctica y el contenido del capítulo.
   - Duración estimada: 50 min
 
-## Flujo de colaboración
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
