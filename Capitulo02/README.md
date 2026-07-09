@@ -1,7 +1,5 @@
 # Cruce de Información entre Excel y Fuentes Externas — Extracción PDF, Conciliación Bancaria y Clasificación de Rubros Impositivos
 
-# Práctica 2: Laboratorio de Extracción de Datos de PDF y Conciliación Fiscal Inteligente de Rubros Impositivos (90 min)
-
 ## 1. Metadatos del Laboratorio
 
 | Atributo | Detalle |
